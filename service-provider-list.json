@@ -1,42 +1,35 @@
 {
-    status: "OK",
-    code: 200,
-    data: [
-    {
-      Name: 'Comany First #1',
-      FirstName: 'Service Provider #1',
-      LastName: 'Service Provider Last NAme',
-      Email: 'service@ll.com',
-      PhoneNo: '+918860528102'
-    },
-    {
-      Name: 'Comany First #1',
-      FirstName: 'Service Provider #1',
-      LastName: 'Service Provider Last NAme',
-      Email: 'service@ll.com',
-      PhoneNo: '+918860528102'
-    },
-    {
-      Name: 'Comany First #1',
-      FirstName: 'Service Provider #1',
-      LastName: 'Service Provider Last NAme',
-      Email: 'service@ll.com',
-      PhoneNo: '+918860528102'
-    },
-    {
-      Name: 'Comany First #1',
-      FirstName: 'Service Provider #1',
-      LastName: 'Service Provider Last NAme',
-      Email: 'service@ll.com',
-      PhoneNo: '+918860528102'
-    },
-    {
-      Name: 'Comany First #1',
-      FirstName: 'Service Provider #1',
-      LastName: 'Service Provider Last NAme',
-      Email: 'service@ll.com',
-      PhoneNo: '+918860528102'
-    }
+    "status": "OK",
+    "code": 200,
+    "data": [
+        {
+          "Name": "Comany First #1",
+          "FirstName": "Service Provider #1",
+          "LastName": "Service Provider Last NAme",
+          "Email": "service@ll.com",
+          "PhoneNo": "+918860528102"
+        },
+        {
+          "Name": "Comany First #1",
+          "FirstName": "Service Provider #1",
+          "LastName": "Service Provider Last NAme",
+          "Email": "service@ll.com",
+          "PhoneNo": "+918860528102"
+        },
+        {
+          "Name": "Comany First #1",
+          "FirstName": "Service Provider #1",
+          "LastName": "Service Provider Last NAme",
+          "Email": "service@ll.com",
+          "PhoneNo": "+918860528102"
+        },
+        {
+          "Name": "Comany First #1",
+          "FirstName": "Service Provider #1",
+          "LastName": "Service Provider Last NAme",
+          "Email": "service@ll.com",
+          "PhoneNo": "+918860528102"
+        }
   ]
 }
 
